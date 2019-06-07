@@ -1,0 +1,11 @@
+.button{
+    display:flex;
+
+    justify-content: centre;
+    align-items: center;
+}
+.operator
+{
+    background-color:orange;
+    color: #fff;
+}
